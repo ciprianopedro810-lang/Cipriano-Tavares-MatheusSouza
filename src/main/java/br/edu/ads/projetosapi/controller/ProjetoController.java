@@ -11,7 +11,7 @@ public class ProjetoController {
         return Map.of(
             "id", 1,
             "nome", "Sistema de Gestao Academica",
-            "responsavel", "Equipe ConectaTech",
+            "responsavel", "Equipe ADS",
             "status", "Em desenvolvimento"
         );
     }
